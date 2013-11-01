@@ -8,4 +8,7 @@ h1 {
 	font-family: Helvetica; 
 	font-weight: light;
 	font-style: italic;
+	
+	text-transform: uppercase;
+	text-align: center;
 }
