@@ -1,0 +1,11 @@
+/*	CSS stylesheet	*/
+
+body {
+	background: #f3f3f3; 
+}
+
+h1 {
+	font-family: Helvetica; 
+	font-weight: light;
+	font-style: italic;
+}
